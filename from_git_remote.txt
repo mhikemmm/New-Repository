@@ -1,2 +1,2 @@
 from git remote machine
-synchronize two
+git push origin main
